@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Örnek RSS Feed</title>
+    <link>https://siteniz.com</link>
+    <description>Pinterest için örnek RSS feed açıklaması.</description>
+    <language>tr-TR</language>
+    <item>
+      <title>Örnek Ürün 1</title>
+      <link>https://siteniz.com/urun-1</link>
+      <description>Bu, örnek bir ürün açıklamasıdır.</description>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://siteniz.com/urun-1</guid>
+      <enclosure url="https://letsenhance.io/static/98010976d5c80b6748593939efef3e53/46382/ai-generation.avif" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Örnek Ürün 2</title>
+      <link>https://siteniz.com/urun-2</link>
+      <description>Bu, başka bir örnek ürün açıklamasıdır.</description>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://siteniz.com/urun-2</guid>
+      <enclosure url="https://letsenhance.io/static/98010976d5c80b6748593939efef3e53/46382/ai-generation.avif" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
